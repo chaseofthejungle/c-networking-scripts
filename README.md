@@ -1,6 +1,6 @@
 # c-networking-scripts
 
-An assortment of command line scripts, written for the C compiler unless otherwise indicated.  
+An assortment of command line scripts written for the C compiler.  
 
 [**client.c:**](https://github.com/chaseofthejungle/c-networking-scripts/blob/main/scripts/client.c) Works in tandem with server.c, creating a data stream connection and receiving a remote server message.  
 [**opensslversion.c:**](https://github.com/chaseofthejungle/c-networking-scripts/blob/main/scripts/opensslversion.c) A short and simple script that outputs the current version of OpenSSL installed on a system.  
