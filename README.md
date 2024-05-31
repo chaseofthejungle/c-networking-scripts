@@ -1,4 +1,4 @@
-# c-networking-scripts
+# C Networking Scripts
   
 An assortment of command line scripts written for the C compiler.  
   
