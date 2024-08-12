@@ -1,6 +1,6 @@
 # C Networking Scripts
   
-**Description:** An assortment of command line scripts written for the C compiler.  
+**Description:** An assortment of command line scripts written for the [C](https://en.wikipedia.org/wiki/C_(programming_language)) compiler.  
   
 | Script File Name | Summary of Script Purpose |  
 | ---------- | ---------- |  
