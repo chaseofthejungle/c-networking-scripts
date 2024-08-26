@@ -1,7 +1,9 @@
 # C Networking Scripts
   
 **Description:** An assortment of command line scripts written for the [C](https://en.wikipedia.org/wiki/C_(programming_language)) compiler.  
-  
+
+*Note: If looking for an online C compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
+
 | Script File Name | Summary of Script Purpose |  
 | ---------- | ---------- |  
 | [**client.c**](https://github.com/chaseofthejungle/c-networking-scripts/blob/main/scripts/client.c) | Works in tandem with server.c, creating a data stream connection and receiving a remote server message.  
