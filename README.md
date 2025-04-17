@@ -1,7 +1,18 @@
 # C Networking Scripts
   
-*Note: If looking for an online [C](https://en.wikipedia.org/wiki/C_(programming_language)) compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
-<br /><br />
+*Note: If looking for an online C compiler with multi-class support, consider [Codiva](https://www.codiva.io/).*  
+
+<hr />
+
+#### Table of Contents
+  
+1. [C Scripts](#scripts)
+2. [Supplemental Resource](#supplemental)
+  
+<hr />
+  
+## 1. <a name="scripts">C Scripts</a>
+  
 | Script | Purpose |  
 | ---------- | ---------- |  
 | [**client.c**](https://github.com/chaseofthejungle/c-networking-scripts/blob/main/scripts/client.c) | Works in tandem with server.c, creating a data stream connection and receiving a remote server message.  
@@ -10,3 +21,9 @@
 | [**opensslversion.c**](https://github.com/chaseofthejungle/c-networking-scripts/blob/main/scripts/opensslversion.c) | A short and simple script that outputs the current version of OpenSSL installed on a system.  
 | [**server.c**](https://github.com/chaseofthejungle/c-networking-scripts/blob/main/scripts/server.c) | Works in tandem with client.c, creating a data stream connection and sending a remote server message.  
 | [**winsockinit.c**](https://github.com/chaseofthejungle/c-networking-scripts/blob/main/scripts/winsockinit.c) | Initializes Winsock (for Windows network services).
+  
+<hr />
+  
+## 2. <a name="supplemental">Supplemental Resource</a>
+  
+* [C Language Official Website]([https://www.python.org](https://www.c-language.org/))
