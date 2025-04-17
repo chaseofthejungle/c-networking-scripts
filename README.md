@@ -7,7 +7,7 @@
 #### Table of Contents
   
 1. [C Scripts](#scripts)
-2. [Supplemental Resource](#supplemental)
+2. [Supplemental Resources](#supplemental)
   
 <hr />
   
@@ -24,6 +24,7 @@
   
 <hr />
   
-## 2. <a name="supplemental">Supplemental Resource</a>
+## 2. <a name="supplemental">Supplemental Resources</a>
   
-* [C Language Official Website]([https://www.python.org](https://www.c-language.org/))
+* [C Language Official Website](https://www.c-language.org/)
+* [C and C++ Tutorials](https://www.cprogramming.com/)
