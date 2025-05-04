@@ -26,5 +26,6 @@
   
 ## 2. <a name="supplemental">Supplemental Resources</a>
   
-* [C Language Official Website](https://www.c-language.org/)
-* [C and C++ Tutorials](https://www.cprogramming.com/)
+* *[C Language Official Website](https://www.c-language.org/)*  
+* *[C and C++ Tutorials](https://www.cprogramming.com/)*  
+* *[Codiva](https://www.codiva.io/)*
